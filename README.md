@@ -6,7 +6,7 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/pytonik)](https://pypi.python.org/pypi/pytonik)
 [![License](https://img.shields.io/pypi/l/pytonik)](https://pypi.python.org/pypi/pytonik)
 
-Pytonik ``curl`` is an in-built module support sending or initiating actions within or outside pytonik framework.
+Pytonik ``curl`` module support sending or initiating actions within or outside. 
 It enables access to API’s and return respond back to the application, in form of JSON, HTML, RAW data etc.
 In this case the use of curl module is to ```POST```, ```GET```,  ```HEAD```, ```PUT``` information in internal or from external API’s URL
 using attributes like ```status```, ```reason```,  and ```result```.  Whereby ```status``` handles response codes

@@ -1,6 +1,6 @@
 from setuptools import setup, find_namespace_packages
 
-from pytonik import Version
+from pytonik_curl import Version
 
 with open("README.md", "r") as fd:
     longdescription = fd.read()
@@ -10,8 +10,8 @@ with open("README.md", "r") as fd:
 setup(
     name='pytonik curl',
     version = Version.VERSION_TEXT+Version.EDITION,
-    description='Pytonik Curl is a python module built to transfer data using various network protocols.',
-    url="https://pytonik_curl.readthedocs.io",
+    description='pytonik curl is built to transfer data using various network protocols and support sending or initiating actions within or outside protocols.',
+    url="https://pytonik-curl.readthedocs.io",
     author='pytonik',
     author_email='info@pytonik.com',
     maintainer= 'Emmanuel Essien',

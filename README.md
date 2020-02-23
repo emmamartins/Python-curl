@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/pypi/v/pytonik-curl)](https://pypi.python.org/pypi/pytonik-curl)
 [![Downloads](https://img.shields.io/pypi/dm/pytonik-curl)](https://pypi.python.org/pypi/pytonik-curl/)
 [![Wheel](https://img.shields.io/pypi/wheel/pytonik-curl.svg)](https://pypi.python.org/pypi/pytonik-curl)
-[![Python Version](https://img.shields.io/pypi/pyversions/pytonik)](https://pypi.python.org/pypi/pytonik-curl)
+[![Python Version](https://img.shields.io/pypi/pyversions/pytonik-curl)](https://pypi.python.org/pypi/pytonik-curl)
 [![License](https://img.shields.io/pypi/l/pytonik-curl)](https://pypi.python.org/pypi/pytonik-curl)
 
 Pytonik ``curl`` module support sending or initiating actions within or outside. 
@@ -21,17 +21,23 @@ Get excepted information from ``result``
 
 We recommend you to install pytonik package using Terminal or Command Line Window
 
-```$ pip install pytonik-curl=1.0.0 ```
+```
+$ pip install pytonik-curl=1.0 
+```
 
 **Import Module**
 
-``` from pytonik_curl.curl import curl ```
+``` 
+from pytonik_curl.curl import curl 
+```
 
 
 **Callable**
 
 
-``` cl = curl() ```
+``` 
+cl = curl() 
+```
 
 
 **Curl Local Variable**

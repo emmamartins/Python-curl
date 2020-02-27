@@ -93,7 +93,7 @@ HEAD
    	
 
 
-GET
+POST
 ----
 	
 **POST**  sent data/information to api using parameters or arguments
@@ -113,8 +113,7 @@ and returns response ``status`` , ``reason``, and  ``result``
 
 
 
-Contact
--------
+**Contact**
 
 **Name:**  Pytonik MVC
 

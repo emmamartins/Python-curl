@@ -21,7 +21,7 @@ Get excepted information from ``result``
 
 We recommend you to install pytonik package using Terminal or Command Line Window
 
-```$ pip install pytonik-curl=1.0 ```
+```$ pip install pytonik-curl=2.0 ```
 
 **Import Module**
 
@@ -40,6 +40,7 @@ We recommend you to install pytonik package using Terminal or Command Line Windo
 URL #accept url link
 HTTPHEADER #httpheader  application/x-www-form-urlencoded etc.
 CONTENTHEADER #accept text/plain, html/plain etc.
+HEADER #accept {'Accept': 'Value'}etc.
 TIMEOUT #accept
 POSTFIELDS #accept dictionary formate {name: example, next: testing}
 POST #accept folder or url part / or /mypath
@@ -90,7 +91,7 @@ print(cl.status, cl.reason, cl.result('utf-8'))
 
 ```
 
-## Contact
+**Contact**
 
 **Name:**  Pytonik MVC
 

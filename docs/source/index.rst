@@ -26,7 +26,7 @@ Getting Started
 
 .. code-block:: python
 
-   pip install pytonik-curl=1.0
+   pip install pytonik-curl=2.0
 
 **Import Module**
 
@@ -50,6 +50,7 @@ Getting Started
 
    URL #accept url link
    HTTPHEADER #httpheader  application/x-www-form-urlencoded etc.
+   HEADER #header  {:}.
    CONTENTHEADER #accept text/plain, html/plain etc.
    TIMEOUT #accept
    POSTFIELDS #accept dictionary formate {name: example, next: testing}
@@ -113,7 +114,7 @@ and returns response ``status`` , ``reason``, and  ``result``
 
 
 
-## Contact
+**Contact**
 
 **Name:**  Pytonik MVC
 

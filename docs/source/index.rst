@@ -50,6 +50,7 @@ Getting Started
 
    URL #accept url link
    HTTPHEADER #httpheader  application/x-www-form-urlencoded etc.
+   HEADER #header  {:}.
    CONTENTHEADER #accept text/plain, html/plain etc.
    TIMEOUT #accept
    POSTFIELDS #accept dictionary formate {name: example, next: testing}

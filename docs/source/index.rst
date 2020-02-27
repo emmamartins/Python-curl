@@ -94,7 +94,7 @@ HEAD
    	
 
 
-GET
+POST
 ----
 	
 **POST**  sent data/information to api using parameters or arguments

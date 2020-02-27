@@ -26,7 +26,7 @@ Getting Started
 
 .. code-block:: python
 
-   pip install pytonik-curl=1.0
+   pip install pytonik-curl=2.0
 
 **Import Module**
 

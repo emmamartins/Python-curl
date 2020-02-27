@@ -113,8 +113,7 @@ and returns response ``status`` , ``reason``, and  ``result``
 
 
 
-Contact
--------
+## Contact
 
 **Name:**  Pytonik MVC
 
